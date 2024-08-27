@@ -10,22 +10,28 @@
 
     </head>
     <body>
-	    <span>
+	    <div>
 		  <h1>valorant</h1>
 		  <p>Its a first shooter video game with players having abillities<p/>
 	    
 	
-		  <span>
-         <h3>reasons why this game is my favorite.</h3>
-    <ol>
-			
-      <li>Its fun to play.</h1>
-			<li>Its easy to play.</h2>
-			<li>Its fun to kill and get an ace in the game</h3>
-			<li>you can challenge yourself</h4>
-			<li>easily compete with your friends</h5>
-</ol>
+	   </div>
+    </body>
 
+	<span>
+		<h3> 5 reasons why this game is my favorite.</h3>
+		<ol>
+			<il>because its fun</il>
+			<il>you can play with ease</il>
+			<il>its fun to rank up</il>
+			<il>there are good skins</il>
+			<il>you can use abilities</il>
+		</ol>
+	</span>
+
+	<p>Copyright &copy; Lance Travis Ditchon 9-Potassium.</p>
+	
+	    		
 
 	    
 	    
